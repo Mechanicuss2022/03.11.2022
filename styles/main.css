@@ -1,0 +1,89 @@
+.name_of_flag {
+	text-align: center;
+}
+
+.back_for_horizontal { 
+	background-color: #c0c0c0;
+	width: 400px;
+	height: 230px;
+	margin:0 auto;
+	padding-top: 50px;
+	border: 1px solid #808080;
+}	
+
+.red_horizontal {
+	background-color: #ff0000;
+	margin: 0px 50px 0px 50px;
+	height: 60px;
+	width: 300px;
+}
+
+.white_horizontal {
+	background-color: #ffffff;
+	margin: 0px 50px 0px 50px;
+	height: 60px;
+	width: 300px;
+}
+
+.back_for_vertical { 
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	background-color: #c0c0c0;
+	width: 400px;
+	height: 230px;
+	margin:0 auto;
+	padding-top: 50px;
+	border: 1px solid #808080;
+	justify-content: center;	
+}	
+
+.green_vertical {
+	background-color: #309345;
+	margin: 0px 0px 0px 0px;
+	height: 180px; 
+	width: 100px;
+}
+
+.white_vertical {
+	background-color: #ffffff;
+	margin: 0px 0px 0px 0px;
+	height: 180px; 
+	width: 100px;
+}
+
+.red_vertical {
+	background-color: #ff0000;
+	margin: 0px 0px 0px 0px;
+	height: 180px; 
+	width: 100px;
+}
+
+.back_for_horizontal_short { 
+	background-color: #808080;
+	width: 200px;
+	height: 180px;
+}	
+
+.green_horizontal_short {
+	background-color: #309345;
+	margin: 0px 0px 0px 0px;
+	height: 60px;
+	width: 200px;
+}
+
+.white_horizontal_short {
+	background-color: #ffffff;
+	margin: 42px 0px 0px 0px;
+	height: 60px;
+	width: 200px;
+}
+.black_horizontal_short {
+	background-color: #000000;
+	margin: 42px 0px 0px 0px;
+	height: 60px;
+	width: 200px;
+}
+
+
+	
