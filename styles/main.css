@@ -63,6 +63,7 @@
 	background-color: #808080;
 	width: 200px;
 	height: 180px;
+	box-sizing: border-box;
 }	
 
 .green_horizontal_short {
@@ -70,6 +71,7 @@
 	margin: 0px 0px 0px 0px;
 	height: 60px;
 	width: 200px;
+	box-sizing: border-box;
 }
 
 .white_horizontal_short {
@@ -77,12 +79,14 @@
 	margin: 42px 0px 0px 0px;
 	height: 60px;
 	width: 200px;
+	box-sizing: border-box;
 }
 .black_horizontal_short {
 	background-color: #000000;
 	margin: 42px 0px 0px 0px;
 	height: 60px;
 	width: 200px;
+	box-sizing: border-box;
 }
 
 
